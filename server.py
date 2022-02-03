@@ -2,7 +2,7 @@ from flask import *
 
 app=Flask(__name__)
 
-text="Witaj"
+text="Co tam sluchać"
 
 def count(number):
     n=number
